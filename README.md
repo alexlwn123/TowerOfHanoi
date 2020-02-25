@@ -7,7 +7,14 @@ This was a project that I created in my first Java class in high school. It was 
 
 Compile and Run "TowerOfHanoi.java" to start the game.
 
-Play the game as instructed. 
+   `javac TowerOfHanoi.java`   
+   `java TowerOfHanoi`  
+
+Play the game as instructed.   
+
+![](./res/example.png)  
 
 
-There is a secret "Cheat Code" that will utilize the "TowerSolver.java" file. When the player is prompted for a number of rings, if the player inputs the string "nickelbackistheonlygod" and then enters a number of rings, the game will auto-complete with a perfect solution.
+### Cheat
+
+There is a "Cheat Code" that will utilize the "TowerSolver.java" file. When the player is prompted for a number of rings, if the player inputs the string "nickelbackistheonlygod" and then enters a number of rings, the game will auto-complete with a perfect solution.
